@@ -38,6 +38,7 @@ The dataset used for this project is `netflix_data.csv`, containing information 
 * Matplotlib
 * Seaborn
 * Jupyter Notebook
+* Seaborn
 
 
 ## Acknowledgments
